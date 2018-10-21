@@ -9,5 +9,5 @@ def second_challenge
   #code your solution here!
   array = []
   array.concat(groceries.values)
-  end
+  
 end
