@@ -9,6 +9,6 @@ def second_challenge
   #code your solution here!
   array = []
   groceries.each do |key|
-    array.push(groceries.values)
+    puts key.values
   end
 end
