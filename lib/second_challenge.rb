@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
   array = []
-  array.concat(groceries.values)
+  array.concat(groceries.values).flatten
   
 end
